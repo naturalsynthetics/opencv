@@ -46,6 +46,7 @@
 #define OPENCV_CORE_EIGEN_HPP
 
 #include "opencv2/core.hpp"
+#include <Eigen/Core>
 
 #if defined _MSC_VER && _MSC_VER >= 1200
 #pragma warning( disable: 4714 ) //__forceinline is not inlined
